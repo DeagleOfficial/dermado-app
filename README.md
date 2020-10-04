@@ -1,7 +1,7 @@
 # dermado-app
 
 ### Requirements: 
-Python 3.8.x - [Download here](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe)
+Python 3.8.x (64-bit) - [Download here for Windows](https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe)
 
 ### Instructions:
 1. Clone the repository to your local machine. 
