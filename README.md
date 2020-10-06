@@ -31,3 +31,12 @@ python server/application.py
 ```
 
 6. Go to [Localhost:5000](http://localhost:5000/)
+
+### Troubleshooting
+In case of error FileNotFoundError: [Errno 2] No such file or directory: 'uploads/upload.jpg':
+1. Make sure you have administrator previledges. 
+2. Go to server/ and rename application.py to app.py.
+3. Run app using the following command:
+```
+python -m flask run
+```
