@@ -1,4 +1,5 @@
 # dermado-app
+Your AI-powered Dermatology Assistant.
 
 ### Requirements: 
 Python 3.8.x (64-bit) - [Download here for Windows](https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe)
